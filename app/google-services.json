@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650040137870",
+    "firebase_url": "https://recipeak-a79fc.firebaseio.com",
+    "project_id": "recipeak-a79fc",
+    "storage_bucket": "recipeak-a79fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650040137870:android:83a06c6582fecdc58c51df",
+        "android_client_info": {
+          "package_name": "com.example.recipeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650040137870-06mgo0qkc354ir4a5au2430lkuig0l76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmxiCQy32EJ9CbJnE8SWB5h1ZJbkrN4tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650040137870-06mgo0qkc354ir4a5au2430lkuig0l76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

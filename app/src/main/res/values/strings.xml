@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipeak</string>
+    <string name="pLoginState">Loginstate</string>
+    <string name="recipeName">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+
+</resources>
